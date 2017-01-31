@@ -2,5 +2,5 @@
 -lib HeapsParticles
 -cp src
 -main Main
--js main.js
+-js docs/main.js
 -dce full
